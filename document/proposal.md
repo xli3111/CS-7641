@@ -50,6 +50,15 @@ Goals include achieving high performance and ensuring ethical fairness.
 2. Dataset name, Source, Year.  
 3. https://scikit-learn.org
 
+## ✅ Contribution Table
+
+| Name       | Proposal Contributions                                  |
+|------------|----------------------------------------------------------|
+| Xinhao Li | Literature review, problem definition, writing section 1–2 |
+|  | Method selection, metrics analysis, model implementation |
+|  | Gantt chart, webpage building (Streamlit), editing      |
+
+
 ## 📅 Gantt Chart
 
 ![Gantt Chart](GanttChart.xlsx)
