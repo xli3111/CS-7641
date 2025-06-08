@@ -52,6 +52,6 @@ Goals include achieving high performance and ensuring ethical fairness.
 
 ## 📅 Gantt Chart
 
-![Gantt Chart](document/gantt.png)
+![Gantt Chart](GanttChart.xlsx)
 
 
