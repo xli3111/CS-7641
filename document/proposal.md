@@ -50,3 +50,8 @@ Goals include achieving high performance and ensuring ethical fairness.
 2. Dataset name, Source, Year.  
 3. https://scikit-learn.org
 
+## 📅 Gantt Chart
+
+![Gantt Chart](images/gantt.png)
+
+
